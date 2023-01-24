@@ -1,0 +1,66 @@
+body{
+    background-color:  #b3ccff;
+}
+button{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color:white;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+label{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style:normal;
+    margin-left: 15px;
+    
+}
+input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h1{
+    margin-left: 600px;
+}
+#labels{
+
+    margin-left: 680px;
+    margin-bottom: 100px;
+    height: 14em;
+    width: 25em;
+}
+img {
+
+    padding-right: 50px;
+    width: 100px;
+    
+    height: 80px;
+    
+    float: left;
+    
+}
+    
+#idCard {
+    margin-top: 150px;
+    margin-left: 560px;
+
+    background-color: #ffccf2;
+
+    border: 5px solid black;
+    border-radius: 25px;
+    
+    height: 250px;
+    
+    width: 400px;
+    
+}
+#postFullName{
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+p{
+
+    font-size: 20px;
+}
