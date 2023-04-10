@@ -1,7 +1,11 @@
 # IdCard
 I started a new full scholarship bootcamp of front-end development with YouTHINK acadamy. today i did my first project after i finished the SWD100 coruse and im so excited about it, I will share my page on github once i finish the bootcamp, Here is a picture of my ID card project of JavaScript
 
-This was the question : 
+# Live Server
+
+https://zuhairseiba.github.io/IdCard/
+
+# Question : 
 
 HTML file
 Create an h1 tag that says "Let's Create an ID card!"
@@ -18,9 +22,6 @@ Tip! You will create this function in the JS file.
 Link to your JavaScript file
 Link to your CSS file
 
-
-
-
 JS file
 Create a function named idCard
 Everything below will be located within this function
@@ -36,10 +37,6 @@ Create a for loop that will loop through numberArray
 Write an if/elseif statement within the for loop
 Check to see if the numberArray at index i is less than or equal to 100. If it is, use DOM innerHTML to write "Age: " plus the variable age.
 Check to see if the numberArray at index i is greater than 100. If it is, use DOM innerHTML to write "Phone Number: " plus the variable phoneNumber
-
-
-
-
 
 CSS file
 
